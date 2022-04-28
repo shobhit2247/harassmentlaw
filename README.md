@@ -1,1 +1,13 @@
-# harassmentlaw
+What is Sexual harassment law?
+![image](https://user-images.githubusercontent.com/102798589/165789913-4b6833a4-8e16-42ea-9576-9d4bd13ebc2e.png)
+
+The Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Legislation, 2013, is an Indian legislative act aimed at protecting women from sexual harassment at work. On September 3, 2012, the Lok Sabha (India's lower house of parliament) passed it. It was approved by the Rajya Sabha (India's upper house of parliament) on February 26, 2013. On April 23, 2013, the President gave his approval to the Bill. The sexual harassment law went into effect on December 9, 2013. This legislation supplanted the Supreme Court of India's Vishaka Guidelines for the Prevention of Sexual Harassment (sexual harassment law). According to the International Labour Organization, relatively few Indian employers were in compliance with this regulation. Despite the fact that every firm with more than ten employees is required by sexual harassment law to apply the law, most Indian employers have not done so. According to a November 2015 FICCI-EY analysis, 36% of Indian enterprises and 25% of MNCs are not in compliance with the sexual harassment law, 2013. Employers who fail to comply with this regulation will face harsh penalties, according to the government.
+
+The sexual harassment law introduction text reads: 
+•	An sexual harassment law to provide protection against sexual harassment of women at work, as well as for the prevention and redressal of sexual harassment complaints, and for things connected with or incidental thereto.
+•	So although sexual harassment violates a woman's fundamental rights to equality under Articles 14 and 15 of the Indian Constitution, as well as her right to life and to live with dignity under Article 21 of the Constitution, and her right to practise any career path or carry on any employment, trade, or company, which contains an access to feel safe atmosphere harassment - free;
+•	AND WHEREAS, sexual harassment protection and the right to work with dignity are universally recognised human rights by international conventions and instruments such as the Convention on the Elimination of All Forms of Discrimination Against Women, which the Government of India ratified on June 25, 1993;
+•	AND WHEREFORE IT IS APPROPRIATE TO MAKE PROVISIONS FOR GIVING EFFECT TO THE SAID CONVENTION FOR THE PROTECTION OF WOMEN AGAINST SEXUAL HARASSMENT AT WORK.
+
+https://muds.co.in/brief-analysis-sexual-harassment-women-workplace-prevention-prohibition-redressal-act-2013/
+![image](https://user-images.githubusercontent.com/102798589/165789961-25517124-67b3-4873-a323-08acac1e035b.png)
